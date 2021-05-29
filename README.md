@@ -9,8 +9,8 @@ MySQL Database:
 2. Afterwards press the run button (the lightning icon).
 
 Running Code:
-1)Under the model folder change the password for databaseConfig.js file
-2)Run both the frontend and backend server.js
+1. Under the model folder change the password for databaseConfig.js file
+2. Run both the frontend and backend server.js
 
 In a Web Browser:
 Browse to localhost:3001/loginPage.html
