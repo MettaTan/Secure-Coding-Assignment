@@ -13,4 +13,4 @@ Running Code:
 2. Run both the frontend and backend server.js
 
 In a Web Browser:
-Browse to localhost:3001/loginPage.html
+1. Browse to localhost:3001/loginPage.html
